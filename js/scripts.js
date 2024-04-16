@@ -72,5 +72,5 @@ let images = [
       initSlider(sliderIndex);
   })
   })
-  
+ 
   
